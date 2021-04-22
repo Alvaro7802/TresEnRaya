@@ -40,6 +40,7 @@ namespace TresEnRaya
                 turno = 2;
 
                 MessageBox.Show("jaja");
+                //fsdfdfdsfdsfdsf
             }
             else
             {
