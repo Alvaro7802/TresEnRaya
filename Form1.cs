@@ -39,7 +39,7 @@ namespace TresEnRaya
                 B3.Image = circulo;
                 turno = 2;
 
-
+                MessageBox.Show("jaja");
             }
             else
             {
